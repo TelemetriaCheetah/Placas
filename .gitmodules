@@ -1,0 +1,6 @@
+[submodule "Componentes/STM32Bluepill_eagle"]
+	path = Componentes/STM32Bluepill_eagle
+	url = https://github.com/sagarHackeD/STM32Bluepill_eagle.git
+[submodule "Componentes/Kicad-STM32"]
+	path = Componentes/Kicad-STM32
+	url = https://github.com/yet-another-average-joe/Kicad-STM32.git
