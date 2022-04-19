@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Cheetah")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Cheetah/Cheetah.pretty")(options "")(descr ""))
+  (lib (name "MP1584")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/MP1584")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Kicad-STM32/Footprints")(options "")(descr ""))
+  (lib (name "Ampseal 23")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Ampseal 23")(options "")(descr ""))
+)

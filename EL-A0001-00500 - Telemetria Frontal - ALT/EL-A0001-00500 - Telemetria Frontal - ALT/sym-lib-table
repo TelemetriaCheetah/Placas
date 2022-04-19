@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "YAAJ_BluePill")(type "Legacy")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Kicad-STM32/Symbols/YAAJ_BluePill.lib")(options "")(descr ""))
+  (lib (name "MP1584")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/MP1584/MP1584.kicad_sym")(options "")(descr ""))
+  (lib (name "1-776087-1")(type "Legacy")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Ampseal 23/1-776087-1.lib")(options "")(descr ""))
+  (lib (name "Cheetah")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Cheetah/Cheetah.kicad_sym")(options "")(descr ""))
+)
