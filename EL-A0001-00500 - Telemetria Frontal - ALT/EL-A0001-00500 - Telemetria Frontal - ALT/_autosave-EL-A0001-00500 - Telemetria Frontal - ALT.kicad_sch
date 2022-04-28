@@ -2779,7 +2779,7 @@
   (symbol (lib_id "power:GND") (at 145.415 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30bfa64d-761b-4732-997d-bd4590e66c7b)
-    (property "Reference" "#PWR?" (id 0) (at 145.415 68.58 0)
+    (property "Reference" "#PWR0117" (id 0) (at 145.415 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 145.415 67.31 0))
@@ -2916,7 +2916,7 @@
   (symbol (lib_id "Device:C_Small") (at 122.555 135.89 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4bd1e1bf-c0c6-4901-bac9-5a11f3ae27ed)
-    (property "Reference" "C?" (id 0) (at 122.5613 130.6281 90))
+    (property "Reference" "C1" (id 0) (at 122.5613 130.6281 90))
     (property "Value" "" (id 1) (at 122.5613 133.165 90))
     (property "Footprint" "" (id 2) (at 122.555 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3827,7 +3827,7 @@
   (symbol (lib_id "Device:C_Small") (at 137.795 60.325 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dd25d964-e865-42e7-8ad7-bf5fa7f0278a)
-    (property "Reference" "C?" (id 0) (at 137.8013 55.0631 90))
+    (property "Reference" "C2" (id 0) (at 137.8013 55.0631 90))
     (property "Value" "100nF" (id 1) (at 137.8013 57.6 90))
     (property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" (id 2) (at 137.795 60.325 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3920,7 +3920,7 @@
   (symbol (lib_id "power:GND") (at 130.81 137.795 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f8aac905-c94d-4bcb-952e-1c5c3776e857)
-    (property "Reference" "#PWR?" (id 0) (at 130.81 144.145 0)
+    (property "Reference" "#PWR0116" (id 0) (at 130.81 144.145 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 130.81 142.875 0))
@@ -4060,17 +4060,17 @@
     (path "/f9d62819-38c0-4c68-a754-c94cc70b4d20"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
     )
-    (path "/30bfa64d-761b-4732-997d-bd4590e66c7b"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/f8aac905-c94d-4bcb-952e-1c5c3776e857"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/30bfa64d-761b-4732-997d-bd4590e66c7b"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
     (path "/4bd1e1bf-c0c6-4901-bac9-5a11f3ae27ed"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
+      (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
     )
     (path "/dd25d964-e865-42e7-8ad7-bf5fa7f0278a"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
+      (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
     )
     (path "/69ed3c2c-eca2-43d3-a0ce-4fcde1c400a3"
       (reference "J1") (unit 1) (value "1-776087-1") (footprint "TE_1-776087-1")
