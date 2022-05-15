@@ -2,6 +2,9 @@
 HeaderColumnWidths=681,79,118
 SortOrder=1
 SortRole=modificationtime
-Timestamp=2022,4,18,16,5,17.445
+Timestamp=2022,4,24,21,28,21.418
 Version=4
 ViewMode=1
+
+[Settings]
+HiddenFilesShown=true

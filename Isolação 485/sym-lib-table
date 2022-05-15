@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "776266-2")(type "Legacy")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/Ampseal 14/776266-2.lib")(options "")(descr ""))
+  (lib (name "MP1584")(type "KiCad")(uri "/home/caio/Documentos/cheetah/Placas/Componentes/MP1584/MP1584.kicad_sym")(options "")(descr ""))
+)
